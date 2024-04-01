@@ -44,3 +44,6 @@ console.log("your remaining balance is:" + " "+ myBalance);
 }else{
     console.log("Incorrect your number");
 }
+
+
+console.log("The End");

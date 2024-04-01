@@ -1,5 +1,5 @@
 {
-  "name": "atm",
+  "name": "bm56atm",
   "version": "1.0.0",
   "description": "This is a atm with typescript, Nodejs and inquirer",
   "main": "index.js",
